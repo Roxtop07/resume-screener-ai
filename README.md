@@ -36,3 +36,21 @@ It runs **completely offline** using **Mistral LLM** on **Ollama**, and has a cl
 ```bash
 git clone https://github.com/<your-username>/resume-screener-ai.git
 cd resume-screener-ai
+```
+
+### 2. Install Python dependencies
+```bash
+pip install -r requirements.txt
+```
+
+### 3. Start Ollama with Mistral
+```bash
+ollama run mistral
+```
+
+### 4. Run the Streamlit App
+```bash
+streamlit run app.py
+```
+
+---
