@@ -83,5 +83,5 @@ resume-screener-ai/
 
  ## 🖼️ Demo Screenshots
 
-![AI Resume Screener](Landing.png)
-![AI Resume Screener](Output.png)
+![Landing Page](Landing.png)
+![Output Page](Output.png)
