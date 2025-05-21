@@ -102,8 +102,8 @@ I built this project to:
 
 # Manish Srivastav
 🎓 B.Tech CS Student | AI Engineer in Progress 🚀
-[🔗likedIN][https://www.linkedin.com/in/manish-kumar-srivastav/]
-[🐙github][https://github.com/Roxtop07]
+[🔗likedIN](https://www.linkedin.com/in/manish-kumar-srivastav/)
+[🐙github](https://github.com/Roxtop07)
 
 ---
 
