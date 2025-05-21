@@ -85,3 +85,33 @@ resume-screener-ai/
 
 ![Landing Page](Landing.png)
 ![Output Page](Output.png)
+
+-----
+
+### 📌 Why I Built This
+
+I built this project to:
+	•	Master LLMs with local deployment (Ollama)
+	•	Learn prompt engineering & output parsing
+	•	Help students analyze their resume with AI
+	•	Build something resume + LinkedIn + intern-worthy
+
+---
+
+### 👤 Author
+
+# Manish Srivastav
+🎓 B.Tech CS Student | AI Engineer in Progress 🚀
+![🔗likedIN][https://www.linkedin.com/in/manish-kumar-srivastav/]
+![🐙github][https://github.com/Roxtop07]
+
+---
+
+### 🔖 License
+MIT — Feel free to fork, use, and improve 🔥
+
+----
+
+### ⚠️ Note
+•	Ollama must be installed separately → [https://ollama.com]
+•	Model used: mistral (you can try llama2, gemma, etc.)
