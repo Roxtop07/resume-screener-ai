@@ -113,5 +113,5 @@ MIT — Feel free to fork, use, and improve 🔥
 ----
 
 ### ⚠️ Note
-•	Ollama must be installed separately → [https://ollama.com]
+•	Ollama must be installed separately → (https://ollama.com)
 •	Model used: mistral (you can try llama2, gemma, etc.)
