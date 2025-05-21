@@ -54,3 +54,34 @@ streamlit run app.py
 ```
 
 ---
+
+### 🧠 Prompt Format Used
+```text
+Score: <score out of 100>
+
+Suggestions:
+1. <suggestion 1>
+2. <suggestion 2>
+3. <suggestion 3>
+```
+This prompt is passed to Mistral through Ollama to ensure clean and structured output.
+
+---
+
+### 🗂️ Folder Structure
+```Folder Structure
+resume-screener-ai/
+│
+├── app.py                 # Streamlit UI
+├── utils.py               # API call + logic
+├── resume_parser.py       # PDF parsing
+├── requirements.txt       # Python dependencies
+├── README.md              # Project info
+└── sample_files/          # Optional test resumes/JDs
+```
+---
+
+ ## 🖼️ Demo Screenshots
+
+![AI Resume Screener](Landing.png)
+![AI Resume Screener](Output.png)
